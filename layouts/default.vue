@@ -1,5 +1,5 @@
 <template>
-  <vue-app>
+  <!--<v-app>-->
     <div>
       <v-toolbar>
         <v-app-bar-nav-icon></v-app-bar-nav-icon>
@@ -13,6 +13,6 @@
       </v-toolbar>
       <nuxt/>
     </div>
-  </vue-app>
+  <!--</v-app>-->
 </template>
 
